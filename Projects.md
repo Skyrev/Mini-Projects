@@ -1,4 +1,4 @@
-Sliding Puzzle - <a href='https://codepen.io/skyrev/pen/QQVaLm'>https://codepen.io/skyrev/pen/QQVaLm</a>
+Sliding Puzzle - https://codepen.io/skyrev/pen/QQVaLm
 
 OS X Yosemite Calendar App - https://codepen.io/skyrev/pen/RQYPYd
 
