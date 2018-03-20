@@ -1,5 +1,10 @@
-Sliding Puzzle - https://codepen.io/skyrev/pen/QQVaLm
+<h1>Mini Projects</h1>
 
-OS X Yosemite Calendar App - https://codepen.io/skyrev/pen/RQYPYd
+<h2>Sliding Puzzle</h2>
+https://codepen.io/skyrev/pen/QQVaLm
 
-Star Spangled Banner - https://codepen.io/skyrev/pen/ddzKGZ
+<h2>OS X Yosemite Calendar App</h2>
+https://codepen.io/skyrev/pen/RQYPYd
+
+<h2>Star Spangled Banner</h2>
+https://codepen.io/skyrev/pen/ddzKGZ
